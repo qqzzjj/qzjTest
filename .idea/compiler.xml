@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="industry-gateway" />
+        <module name="industry-registry" />
+        <module name="industry-order-service" />
+        <module name="industry-user-service" />
+        <module name="industry-product-service" />
+        <module name="industry-common" />
+        <module name="industry-order-api" />
+        <module name="industry-product-api" />
+        <module name="industry-user-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="industry" target="1.8" />
+      <module name="industry-common" target="1.8" />
+      <module name="industry-gateway" target="1.8" />
+      <module name="industry-order" target="1.8" />
+      <module name="industry-order-api" target="1.8" />
+      <module name="industry-order-service" target="1.8" />
+      <module name="industry-product" target="1.8" />
+      <module name="industry-product-api" target="1.8" />
+      <module name="industry-product-service" target="1.8" />
+      <module name="industry-registry" target="1.8" />
+      <module name="industry-user" target="1.8" />
+      <module name="industry-user-api" target="1.8" />
+      <module name="industry-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="industry-common" options="-parameters" />
+      <module name="industry-gateway" options="-parameters" />
+      <module name="industry-order-api" options="-parameters" />
+      <module name="industry-order-service" options="-parameters" />
+      <module name="industry-product-api" options="-parameters" />
+      <module name="industry-product-service" options="-parameters" />
+      <module name="industry-registry" options="-parameters" />
+      <module name="industry-user-api" options="-parameters" />
+      <module name="industry-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

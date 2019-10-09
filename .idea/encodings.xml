@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-order/industry-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-order/industry-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-product/industry-product-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-product/industry-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-user/industry-user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/industry-user/industry-user-service" charset="UTF-8" />
+  </component>
+</project>
